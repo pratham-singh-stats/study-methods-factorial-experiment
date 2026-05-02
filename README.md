@@ -1,16 +1,16 @@
-# 🧪 Statistical Evaluation of Study Methods and Cognitive Focus
+#  Statistical Evaluation of Study Methods and Cognitive Focus
 ## 2³ Full Factorial Experiment
 
 ![R](https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Domain](https://img.shields.io/badge/Domain-Design%20of%20Experiments-2E75B6)
 
-## 📌 Overview
+##  Overview
 A **2³ full factorial experiment** investigating how study method, study location, and peer interaction jointly influence **cognitive focus scores** among university students. The study identifies optimal study conditions using rigorous ANOVA-based analysis across all main effects and interaction terms.
 
 ---
 
-## 🎯 Research Questions
+##  Research Questions
 - Does digital studying outperform traditional methods for cognitive focus?
 - Does study location (home vs. library) significantly affect concentration?
 - Do interaction effects between these factors matter more than individual effects?
@@ -18,7 +18,7 @@ A **2³ full factorial experiment** investigating how study method, study locati
 
 ---
 
-## 🧬 Experimental Design
+##  Experimental Design
 
 | Factor | Level -1 | Level +1 |
 |--------|----------|----------|
@@ -33,7 +33,7 @@ A **2³ full factorial experiment** investigating how study method, study locati
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Data Collection & Preprocessing
 - Recruited 108 participants across all 8 experimental conditions
@@ -58,7 +58,7 @@ Evaluated all **7 effect terms**:
 
 ---
 
-## 📈 Key Results
+##  Key Results
 
 | Effect | F-statistic | p-value | Significant? |
 |--------|-------------|---------|--------------|
@@ -68,12 +68,12 @@ Evaluated all **7 effect terms**:
 | A × C (Method × Peers) | — | < 0.01 | ✅ Yes (strongest) |
 | A × B × C | — | < 0.05 | ✅ Yes |
 
-### 🏆 Main Finding
+###  Main Finding
 > **Digital study methods combined with group settings improved cognitive focus by 15–25% over the Traditional + Solo baseline condition** — the most impactful factor combination identified.
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 1. Academic institutions should promote **digital tools** in collaborative environments
 2. **Library settings** provide a consistent marginal benefit over home study
 3. The **Digital + Group** combination is the optimal study configuration
